@@ -32,6 +32,12 @@ let d = 0;
        
 let count = 0;
 
+
+
+
+
+
+
 let audio = document.getElementById('aud');
 let music = document.getElementById('icon-vol');
 
@@ -123,7 +129,7 @@ function reset() {
     
     let time = 5;
         
-        if(time == 5){
+        if(time == 1000){
             p = setInterval(()=>{
     
                 timer.innerHTML = `Auto reset in <h1>${time}</h1>for Instant reset click on reset button`;
@@ -251,3 +257,8 @@ function win() {
     }
 
 }
+
+
+
+
+
