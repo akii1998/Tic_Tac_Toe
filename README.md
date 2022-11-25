@@ -14,7 +14,7 @@
 <ol>
 
 <b>
-<li><a href="https://github.com/akii1998/tic_tac_toe#-about-the-project/README.md#-about-the-project">>➤ About The Project </a></li>
+<li><a href="https://github.com/akii1998/tic_tac_toe/blob/main/README.md#-about-the-project">➤ About The Project </a></li>
 <li><a href="https://github.com/akii1998/tic_tac_toe/blob/main/README.md#%EF%B8%8F-overview">➤ Overview</li>
 <li><a href="https://github.com/Abhishekraj00/tik-tak-toe/blob/master/README.md#-project-files-description">➤ Project Files Description</li>
 <li><a href="https://github.com/Abhishekraj00/tik-tak-toe/blob/master/README.md#-getting-started">➤ Getting Started</li>
