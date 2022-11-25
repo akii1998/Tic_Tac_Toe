@@ -2,7 +2,6 @@
 
 <h2>Responsive Design Look</h2>
 
-![Beige New Product Mockup Now Available Facebook Post (1)](https://user-images.githubusercontent.com/110536209/197220236-e9b1df7e-58be-44dd-a356-fbab67934194.png)
 
 
 <hr>
@@ -94,4 +93,4 @@ You are able to start the game by typing on the any of the grid
 
 <hr>
 <h2>🔗  Hosted Link </h2>
-<b><a href="https://tic-tac-toe-by-abhishek-raj-gupta.netlify.app/">Click to View</a></b>
+<b><a href=http://tic-tac-toe-akii1998.vercel.app//">Click to View</a></b>
