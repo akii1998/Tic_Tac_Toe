@@ -88,9 +88,9 @@ You are able to start the game by typing on the any of the grid
 <h2>📜 Special mention </h2>
 <ul>
 <li><b>Newton School</b>--Helping in getting learn the Java script Skill set</li>
-<li><b>Vikas Verma</b--My Mentor at Newton School for being supportive and ready to help any time</li>
+  <li><b>Vikas Verma</b>--My Mentor at Newton School for being supportive and ready to help any time</li>
 </ul>
 
 <hr>
 <h2>🔗  Hosted Link </h2>
-<b><a href=http://tic-tac-toe-akii1998.vercel.app//">Click to View</a></b>
+<b><a href=http://tic-tac-toe-akii1998.vercel.app>Click to View</a></b>
