@@ -19,7 +19,7 @@
 <li><a href="https://github.com/akii1998/tic_tac_toe/blob/main/README.md#-project-files-description">➤ Project Files Description</li>
 <li><a href="https://github.com/akii1998/tic_tac_toe/blob/main/README.md#-getting-started">➤ Getting Started</li>
 <li><a href="https://github.com/akii1998/tic_tac_toe/blob/main/README.md#-game-featcher-">➤ Game Featcher</li>
-<li><a href="https://github.com/Abhishekraj00/tik-tak-toe/blob/master/README.md#-scenario-1-player-1-wins">➤ Scenario 1: Player 1 wins </li>
+<li><a href="https://github.com/akii1998/tic_tac_toe/blob/main/README.md#-scenario-1-player-1-wins">➤ Scenario 1: Player 1 wins </li>
 <li><a href="https://github.com/Abhishekraj00/tik-tak-toe/blob/master/README.md#-scenario-2-player-2-wins">➤ Scenario 2: Player 2 wins</li>
 <li><a href="https://github.com/Abhishekraj00/tik-tak-toe/blob/master/README.md#-scenario-3-game-draw-">➤ Scenario 3: Draw No one wins</li>
 <li><a href="https://github.com/Abhishekraj00/tik-tak-toe/blob/master/README.md#-special-mention-">➤ Special Mention</li>
